@@ -20,4 +20,4 @@ Inspired by the blog post at [http://blog.thefrontiergroup.com.au/2013/05/writin
 ### How to connect to the server
 ### Where on the server the application is located
 ### Deploy process
-### Any other services on the box related to the app, e.g. cron, rescue
+### Any other services on the box related to the app, e.g. cron, resque, sidekiq
